@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DumpertDowner": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.dumpert.nl/item/100040131_fd07b629"
+    }
+  }
+}
